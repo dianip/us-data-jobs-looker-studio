@@ -51,10 +51,10 @@ Build a versatile skill set in tools like Python, Excel, and AWS - and aim for r
 
 ## Exploratory Data Analysis (EDA)
 The full exploratory notebook used for cleaning and summarising the dataset is available here:  
-[`us_data_jobs_eda.ipynb`](us_data_jobs_eda.ipynb)
+[View EDA](us_data_jobs_eda.ipynb)
 
 ---
 
 ## Dataset
-The cleaned dataset used in this project can be downloaded below:  
-[`cleaned_us_data_jobs.csv`](data/cleaned_us_data_jobs.csv)
+The cleaned dataset used in this project is available here:  
+[View Dataset](data/cleaned_us_data_jobs.csv)
