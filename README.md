@@ -18,7 +18,7 @@ The dashboard was built collaboratively using Google Looker Studio, with data pr
 ## Tools Used
 - Looker Studio (data visualisation)
 - BigQuery (data cleaning + querying)
-- Python (EDA + feature engineering)
+- Python (EDA)
 
 ---
 
