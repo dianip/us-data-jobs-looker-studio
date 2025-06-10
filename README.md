@@ -46,3 +46,15 @@ Build a versatile skill set in tools like Python, Excel, and AWS - and aim for r
 
 ## Live Dashboard  
 [View on Looker Studio](https://lookerstudio.google.com/reporting/c5385595-03d7-4e08-adc4-a2f5c628ace9)
+
+--
+
+## Exploratory Data Analysis (EDA)
+The full exploratory notebook used for cleaning and summarising the dataset is available here:  
+[`us_data_jobs_eda.ipynb`](us_data_jobs_eda.ipynb)
+
+---
+
+## Dataset
+The cleaned dataset used in this project can be downloaded below:  
+[`cleaned_us_data_jobs.csv`](data/cleaned_us_data_jobs.csv)
