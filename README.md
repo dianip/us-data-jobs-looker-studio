@@ -35,7 +35,7 @@ The dashboard was built collaboratively using Google Looker Studio, with data pr
 
 ## Key Takeaway for Job Seekers
 
-Build a versatile skill set in tools like Python, Excel, and AWS — and aim for roles in **public or mid-revenue companies located in top-paying cities** to maximise your earning potential.
+Build a versatile skill set in tools like Python, Excel, and AWS - and aim for roles in **public or mid-revenue companies located in top-paying cities** to maximise your earning potential.
 
 ---
 
