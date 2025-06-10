@@ -1,6 +1,6 @@
 # Market Trend Analysis of Data Roles in the U.S.
 
-This Looker Studio dashboard was created as part of a group project for Le Wagon’s Data Analytics Bootcamp. It explores trends in U.S. data job listings, focusing on salary variation, in-demand skills, company types, and tool combinations using a cleaned Kaggle dataset.
+This Looker Studio dashboard was created as part of a **group project for Le Wagon’s Data Analytics Bootcamp**. It explores trends in U.S. data job listings, focusing on salary variation, in-demand skills, company types, and tool combinations using a cleaned Kaggle dataset.
 
 ---
 
