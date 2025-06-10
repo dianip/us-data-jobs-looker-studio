@@ -45,4 +45,4 @@ The dashboard was built collaboratively using Google Looker Studio, with data pr
 ---
 
 ## Preview  
-![Dashboard Preview](assets/us-data-jobs-dashboard.pdf)
+![Dashboard Preview](assets/us-data-jobs-dashboard.png)
